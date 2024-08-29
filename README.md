@@ -11,3 +11,4 @@ This repository contains training notes and exercises related to various machine
 
 #### Topic 2: Scikit learn
 - Imported a dataset, trained and tested a model, and verified its performance using a custom sample input.
+- Some notes on both Supervised and Unsupervised Learning topics such as linear regression, classification, clustering and PCA.
