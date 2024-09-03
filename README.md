@@ -17,3 +17,9 @@ This repository contains training notes and exercises related to various machine
 - Tensor basics such as creation, operation and simple dataset model building, evaluation and prediction.
 - Tensor Flow with keras - used keras for model building, and model types description.
 - OCR with Tensorflow and Keras - built a digit classifier step by step.
+- Image Classifier with CNN model.
+- Time series forecasting with LSTM model.
+
+References: [TensorFlow](https://www.tensorflow.org/tutorials/quickstart/beginner) ||
+            [Keras](https://keras.io/api/) ||
+            [TensorFlow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.10716&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) ||
